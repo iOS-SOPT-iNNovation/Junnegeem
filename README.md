@@ -1,6 +1,6 @@
 # Junnegeem
 
-IOS STUDY
+iOS STUDY
 
 문제 인식
 IBOutlet할 버튼이 너무 많다!
