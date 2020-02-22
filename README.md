@@ -1,6 +1,6 @@
 # Junnegeem
 
 
-iOS Study 
+### iOS STUDY
 
-기존 앱잼 Developing
+## iSSUES!!
